@@ -1,4 +1,4 @@
-# Predicting-Student-Performance-Using-Machine-Learning
+# Student-Performance-Using-ML
 
 This project aims to predict student performance based on various factors such as gender, ethnicity, parental level of education, lunch type, test preparation course, and exam scores. The machine learning model trained on a dataset of student information can provide insights into predicting a student's performance in mathematics.
 
@@ -44,31 +44,7 @@ The trained model achieved an accuracy of 85% in predicting student performance 
 
 
 
-## Project Structure
 
-The project has the following structure:
-    
-    ├───artifacts
-    ├───catboost_info
-    │ └───learn
-    ├───Notebook
-    │ └───data
-    ├───src
-    │ ├───components
-    │ └───pipeline
-    ├───static
-    │ └───css
-    └───templates
-
-- `artifacts`: This directory contains artifacts generated during the model training process.
-- `catboost_info`: This directory stores CatBoost model information.
-- `Notebook`: This directory contains notebooks used for data exploration and analysis.
-- `src`: This directory contains the source code for the project.
-  - `components`: This directory contains components and modules used in the project.
-  - `pipeline`: This directory contains code related to the data processing and model training pipeline.
-- `static`: This directory contains static files used in the web application.
-  - `css`: This directory contains CSS files for styling the web application.
-- `templates`: This directory contains HTML templates used in the web application.
 
 
 
